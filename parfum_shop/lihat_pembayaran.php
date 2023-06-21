@@ -218,7 +218,7 @@ if (empty($detbay))
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include 'footer.php'; ?>
+  <?php include 'footer.html'; ?>
   <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
