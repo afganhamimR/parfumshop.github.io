@@ -193,7 +193,7 @@ $detail = $ambl->fetch_assoc();
 
   </main><!-- End #main -->
 
-  <?php include 'footer.php'; ?>
+  <?php include 'footer.html'; ?>
   <!-- End Footer -->
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
