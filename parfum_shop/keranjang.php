@@ -143,7 +143,7 @@ $kn = new mysqli("localhost","root","","tokoparfum"); ?>
 
   </main><!-- End #main -->
 
- <?php include 'footer.php'; ?>
+ <?php include 'footer.html'; ?>
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
