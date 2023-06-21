@@ -1,5 +1,4 @@
-
-  <footer id="footer" class="footer">
+<footer id="footer" class="footer">
 
     <div class="footer-content position-relative">
       <div class="container">
@@ -33,7 +32,7 @@
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Alamat</h4>
              <p>
-                Jl. Sekar Putih <br>
+                Jl. Sekar Putih, <br>
                 Kepatihan, Siman, Ponorogo <br><br>
               </p>
           </div>
@@ -41,7 +40,7 @@
           <div class="col-lg-2 col-md-3 footer-links">
             <h4>Hubungi Kami</h4>
            <p>
-            <strong>Phone:</strong> 0858 4951 8082<br>
+            <strong>Phone:</strong> 0858 4951 8082 <br>
             <strong>Email:</strong> parfumshop@gmail.com<br>
            </p>
           </div>
@@ -62,4 +61,8 @@
     </div>
 
   </footer>
-  
+ 
+         
+        
+         
+   
